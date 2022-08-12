@@ -78,10 +78,10 @@ li.main {
     background-color: transparent;
 }
 
-.workImgs ul {
-    list-style-type: none;
+.workImgs  {
     padding: 0;
     /*display: flex;*/
+  
 
 }
 
@@ -93,9 +93,9 @@ section.contact ul li {
     text-align: center;
   
 }
-ul li .sub {
-    display: flex;
-    /*flex-wrap: wrap;*/
-    flex: 1;
+section .sub {
+    /* Get these side by side*/
+    
+   
 
 }
