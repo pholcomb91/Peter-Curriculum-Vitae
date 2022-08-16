@@ -80,7 +80,8 @@ li.main {
 
 .workImgs  {
     padding: 0;
-    /*display: flex;*/
+    display: flex;
+    flex-wrap: wrap;
   
 
 }
@@ -95,7 +96,10 @@ section.contact ul li {
 }
 section .sub {
     /* Get these side by side*/
-    
-   
+    display: flex;
 
+}
+
+.contact ul {
+    text-align: center;
 }
